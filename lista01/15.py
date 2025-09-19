@@ -1,0 +1,6 @@
+n1 = float(input("Digite o primeiro número real: "))
+n2 = float(input("Digite o segundo número real: "))
+print(f"Soma: {n1 + n2}")
+print(f"Subtração: {n1 - n2}")
+print(f"Multiplicação: {n1 * n2}")
+print(f"Divisão: {n1 / n2 if n2 != 0 else "Divisão por zero não permitida"}")
