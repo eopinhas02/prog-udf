@@ -1,4 +1,4 @@
-# Exercício 14
+
 media_aprov = float(input("Digite a média mínima para aprovação: "))
 nome = input("Digite o nome do aluno: ")
 sexo = input("Digite o sexo do aluno (M/F): ").upper()
