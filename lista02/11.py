@@ -1,4 +1,4 @@
-# Exercício 11
+
 nome1 = input("Digite o nome da primeira pessoa: ")
 peso1 = float(input("Digite o peso da primeira pessoa: "))
 nome2 = input("Digite o nome da segunda pessoa: ")
